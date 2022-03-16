@@ -1,0 +1,3 @@
+TOKEN = '<5109116614:AAFM5aHeCA7_54k8kUtJ_F0o5Oe3fe-lJ_w>’'
+TIMEZONE = 'Asia/Colombo'
+TIMEZONE_COMMON_NAME = 'Colombo'
